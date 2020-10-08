@@ -4,3 +4,16 @@ ul {
   padding: 0;
 }
 
+.sidebar{
+    float: right; 
+    border: black 3px solid;
+    padding: 5px;
+}
+
+.right {
+    float: right;
+}
+
+.minecraft_img {
+    width:30%;
+}
