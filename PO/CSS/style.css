@@ -17,3 +17,18 @@ ul {
 .minecraft_img {
     width:30%;
 }
+body{
+    background-image: url("https://gamepedia.cursecdn.com/minecraft_zh_gamepedia/3/38/Java_launcher_background.jpg"); 
+}
+
+li{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+    display: inline; /*inline block table*/
+    
+}
+a{
+    color: green;
+    text-decoration: none;
+
+}
