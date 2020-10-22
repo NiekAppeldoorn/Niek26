@@ -6,18 +6,27 @@ body{
 }
 
 h1{
-    color: white;
+    color: #11200D;
     font-family: Arial, Helvetica, sans-serif;
-    margin: 75px;
+    margin-left: 40px;
+    margin-right: 10px
 }  
 
 h2{
-    color: white;
+    color:#11200D;
     font-family: Arial, Helvetica, sans-serif;
     
 } 
 
+div{
+border: 5px solid #103D11;
+  margin-top: 100px;
+  margin-bottom: 100px;
+  margin-right: 1500px;
+  margin-left: 80px;
+  background-color: whitesmoke;
 }
+
 ul{
   list-style-type: none;
   margin: 0;
