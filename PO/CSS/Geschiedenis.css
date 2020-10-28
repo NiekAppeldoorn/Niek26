@@ -1,0 +1,52 @@
+ul{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+li {
+  float: left;
+}
+
+a{
+  display: block;
+  color: green;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+  background-color: #111;
+}
+
+.active {
+  background-color: #4CAF50;
+}
+
+ul {
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+
+div{
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    border: 5px solid #103D11;
+  margin-top: 300px;
+  margin-bottom: 0px;
+  margin-right: 790px;
+  margin-left: 80px;
+  
+  
+}
+
+body{
+    background-image: url("https://th.bing.com/th/id/OIP.jRx-nKokXXUJLg2Ia7Td4gHaEK?pid=Api&rs=1");
+    background-size: cover;
+}
