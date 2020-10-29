@@ -38,15 +38,15 @@ div{
     font-family: Arial, Helvetica, sans-serif;
     color: black;
     border: 5px solid #103D11;
-  margin-top: 320px;
+  margin-top: 100px;
   margin-bottom: 0px;
-  margin-right: 790px;
+  margin-right: 1000px;
   margin-left: 80px;
   background-color: whitesmoke;
   
 }
 
 body{
-    background-image: url("https://th.bing.com/th/id/OIP.jRx-nKokXXUJLg2Ia7Td4gHaEK?pid=Api&rs=1");
+    background-image: url("https://gamepedia.cursecdn.com/minecraft_gamepedia/thumb/a/a8/Alpha.png/1200px-Alpha.png");
     background-size: cover;
 }

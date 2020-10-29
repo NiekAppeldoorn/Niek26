@@ -33,3 +33,8 @@ ul {
   top: 0;
   width: 100%;
 }
+
+body{
+    background-image: url("https://e5a26225-cf18-4f89-aa84-23bf732cce63.ws-eu01.gitpod.io/mini-browser/workspace/Niek26/PO/afbeeldingen/informatica%20foto.png");
+    background-size: cover;
+}
